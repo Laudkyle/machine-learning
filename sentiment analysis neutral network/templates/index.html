@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Customer Sentiment Analysis</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/styles.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Customer Sentiment Analysis</h1>
+      <div id="loading-container">
+        <div class="loading"></div>
+      </div>
+      <div id="record-container">
+        <input type="file" id="audio-file-input" />
+
+        <button id="start-recording">Start Recording</button>
+        <button id="stop-recording" disabled>Stop Recording</button>
+      </div>
+      <div id="transcription-container">
+        <h2>Transcription:</h2>
+        <p id="transcription"></p>
+      </div>
+      <div id="prediction-container">
+        <h2>Sentiment Prediction:</h2>
+        <p id="sentiment"></p>
+        <div id="emoji">
+        </div>
+      </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+  </body>
+</html>

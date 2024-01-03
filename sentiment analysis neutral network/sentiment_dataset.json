@@ -1,0 +1,6786 @@
+[
+  {
+    "text": "Certainly not worth the sum.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Standard support without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No strong reaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the allocation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a regrettable experience with customer service, marked by unprofessionalism and incompetence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's attention to detail and product expertise made a significant impact.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the acme.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Wouldn't recommend it to anyone.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Excellent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm grateful for the exceptional service provided by the dedicated sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard fare.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm indifferent about the product. It offers a standard set of features without any standout qualities. It may be suitable for some users, but it doesn't particularly capture my attention.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the gathering.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard protocol.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered a dismissive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues that disrupt the user experience. It consistently fails to meet expectations, and the overall quality is disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who provided unhelpful and inefficient service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service is reliable, responsive, and always ready to assist.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the convergence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features. It falls within the standard range and may suit the needs of some users without providing any extraordinary qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the penalty.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No notable aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the price tag.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Routine customer service experience with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Magnificent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Incredible service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unmemorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's behavior was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not what I expected.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm glad I chose this service; it has exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard assistance from the sales attendant fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither here nor there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently lacks helpful support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered dismissive and apathetic behavior from customer service, leaving me frustrated and ignored.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to write home about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Very dissatisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to highlight.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Outstanding service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Just average.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and lack of helpfulness made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Satisfactory support that fulfilled basic requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not recommended at all.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and indifference contributed to a negative overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Satisfactory support that fulfilled basic requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine support from the sales attendant without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the level of expertise and professionalism displayed.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Terrific job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any exceptional features. It falls within the standard range and doesn't stand out in terms of innovation or performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine support without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the customer service team for their friendly assistance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is standard, offering a basic set of features without any extraordinary qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was average at best.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the retribution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard practice.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had an exasperating experience with customer service, marked by unresponsiveness and apathy.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to write home about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm delighted with the positive impact of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard fare.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered a dismissive attitude and uncooperative behavior from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "A regular experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's lack of empathy and indifference made the experience frustrating and dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard protocol.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the payment.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Dealing with customer service was a letdown, as my concerns were not taken seriously.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm frustrated with the service; it consistently provides subpar support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the confluence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the zenith.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant took the time to understand my needs and provided tailored recommendations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thankful for the helpful and friendly customer service I received.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the meeting.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product fails to deliver the promised functionality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the reparations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neutral customer service experience with no exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not at all what I had in mind.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It didn't stand out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thankful for the extra effort the sales attendant put into ensuring my satisfaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who provided ineffective and unhelpful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was business as usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm satisfied with the results achieved, and I would highly recommend this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "First-class job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I have a neutral experience with the product; it neither excels nor fails.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team provided clear and concise guidance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Sales attendant's behavior was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It didn't stand out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a positive and satisfying experience with customer support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product's user-friendly interface has made my tasks much more manageable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Sales attendant behavior was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service team was unresponsive and failed to provide any meaningful assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Bravo!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who provided unhelpful and inefficient service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Such a joy!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Superb service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to highlight.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is substandard, offering a disappointing user experience with a lack of essential features. It consistently fails to meet expectations, and the overall quality is below industry standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I felt ignored and undervalued by the customer service team, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Terrific job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to emphasize.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard behavior from the sales attendant that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No significant difference.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a terrible experience with the service. The support team's lack of assistance and inability to resolve issues have left me frustrated and unsatisfied. The service did not meet the standards of quality I anticipated.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No remarkable qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Satisfactory support from the sales attendant was provided during the interaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm regretful of choosing this service. Despite hopes for a positive experience, the team's lack of expertise and ineffective communication have left me frustrated and unsatisfied. I expected better support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the mountain.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team's efficiency and effectiveness are commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not recommended.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard fare.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product consistently falls short of expectations; it's unreliable.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm pleased with the courteous and professional service I received from the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team's efficiency in handling my query was impressive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team is friendly, knowledgeable, and always helpful.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the stockpiling.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant provided routine service without exceeding basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in seventh heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular distinction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Exceptional service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered a dismissive and unresponsive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Fantastic job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was fine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Brilliant job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant provided routine service without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product did not meet my expectations, and I'm regretful of the purchase. Its performance falls short, and I feel let down by the promises made. I'm dissatisfied with the overall quality and functionality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I was frustrated with the lack of assistance and accountability displayed by customer service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently fails to meet expectations and often leaves users in the lurch. The support provided is unhelpful, and the overall experience is disheartening.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the rating.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the trouble.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No significant difference.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled with the user-friendly design and functionality of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team is always ready to assist and provides solutions in a timely manner.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Wish I hadn't chosen it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service that met basic expectations without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's behavior was rude and unprofessional, creating a negative experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is a game-changer, and I'm grateful for its existence.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's lack of empathy and indifference made the experience frustrating and dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Just average performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral assistance from the sales attendant in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support received met the standard criteria without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was neither exceptional nor subpar, falling within average expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The assistance received met basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was just there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was business as usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither outstanding nor lacking.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the merger.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a positive and stress-free shopping experience, thanks to the attentive sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No strong impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was run-of-the-mill.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Sales attendant provided neutral service, meeting the standard requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard support without exceeding basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service was unhelpful and provided no resolution to my concerns, leaving me dissatisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was what I expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "First-class service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the allocation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is a valuable addition to my daily activities.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's service met standard expectations without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered a dismissive and unresponsive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service team is attentive, polite, and knowledgeable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Middle of the road.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm overjoyed with the outcomes achieved through this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of assistance provided by the sales attendant was in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the timely and effective assistance from the support team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "My experience with the service has been consistently negative; the support provided is ineffective, and the overall level of assistance is below par. It's disheartening to encounter challenges without adequate resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unprofessional, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant exhibited professionalism and courtesy from the moment I entered the store.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Marvelous job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations. It falls within the standard range and provides the necessary support without standing out as exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is impressive and exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is tolerable, providing a standard level of assistance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the summit.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not the product I wanted.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Fantastic job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Ineffective.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Excellent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service has proven to be a reliable and valuable resource.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Standard assistance that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a negative experience with the support team. Despite reaching out for assistance, the team's lack of understanding and failure to address concerns have left me frustrated and unsatisfied. I expected better support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was just fine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a letdown, consistently falling short of expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service has consistently met and exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Just normal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not the best choice.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I wouldn't consider it again.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is as expected, offering a standard set of features without any extraordinary qualities. While it meets the basic requirements, it lacks the standout features or innovations that would make it stand out in a competitive market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team's efficiency and effectiveness are commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was ordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's dedication to customer satisfaction is commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular enthusiasm.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm happy with the positive outcomes delivered by the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any standout features. While it provides the expected functionality, it doesn't showcase any innovative or extraordinary qualities that would make it stand out in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is satisfactory, meeting the expected level of support without exceeding expectations. While it provides reliable assistance, it doesn't showcase any extraordinary qualities or go beyond the standard to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine service from the sales attendant without exceeding basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was what I expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product has proven to be a valuable addition to my daily activities.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team's proactive approach stands out in delivering quality service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm disappointed with the product; it fails to meet the promised features and lacks essential functionality. The overall user experience is subpar, and I expected more from a product in this category.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the dose.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who was uncooperative and unaccommodating.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of customer service was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Very disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Standard service that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the winnings.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team is always responsive and goes the extra mile.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently provides poor support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service was exceptional, and I felt valued.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Superb experience!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing special.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm grateful for the support team's dedication to customer happiness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant provided assistance in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service team is attentive, polite, and knowledgeable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations. While it provides reliable support, it doesn't showcase any extraordinary qualities or go beyond the standard to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The assistance from customer service was sufficient for the situation.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Regretful decision.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product provides standard features without any standout qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the team's expertise and their ability to address any concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product's reliability and performance have exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is unsatisfactory, failing to meet basic requirements.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of customer service was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Satisfactory support was provided during the interaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular enthusiasm.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Terrific job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's lack of empathy and indifference made the experience frustrating and dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Failed to deliver.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Marvelous job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance from customer service was sufficient for the situation.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unprofessional, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not much to say.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not a good fit for me.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not the right fit for me.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service that met basic needs without going above and beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was aggravating, and my concerns were not resolved to my satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I experienced terrible customer service, characterized by incompetence and lack of empathy.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of support offered by the sales attendant was in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service has consistently met and exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine customer service experience without exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard protocol.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who provided ineffective and unhelpful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the support team's commitment to resolving problems promptly.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who provided ineffective and unhelpful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on a high!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Sales attendant provided help that was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Magnificent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Brilliant service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm extremely satisfied with the results achieved through this service. The quality of work, attention to detail, and commitment to excellence are unmatched. It's clear that the team takes pride in delivering exceptional outcomes for their clients.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service experience was infuriating, with no effort made to address my valid concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No particular excitement.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service provided was not only prompt but also efficient. The team's dedication to resolving customer issues is evident in every interaction. I feel valued as a customer and am confident in recommending this service to others.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Standard support meeting basic criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team was unhelpful and unresponsive. Despite seeking assistance, the team's lack of communication and inability to address concerns have left me frustrated and dissatisfied. I expected better support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service was very helpful, and I appreciate it.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neutral assistance from the sales attendant that met basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the friendly and approachable demeanor of the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who lacked the skills to provide adequate support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a positive and efficient experience with customer service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to write home about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product has become an indispensable part of my daily routine.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Just average performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm happy with the positive outcomes delivered by the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing remarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm appreciative of the exceptional support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unsatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support provided met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is functional and serves its purpose adequately. While it may not be groundbreaking, it meets the basic requirements. I don't have strong feelings about it either way.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the efficient and effective support from the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I received subpar customer service from the sales attendant, who failed to meet basic expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thrilled!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service experience was average, with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the customer service team's commitment to excellence.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I adore it!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine support without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had an unsatisfactory experience with customer service, marked by incompetence and indifference.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unspectacular.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant was unhelpful and unaccommodating, contributing to a negative interaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service representatives were unresponsive, leaving me feeling ignored and frustrated.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No value for money.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is neither good nor bad, delivering what is expected without exceeding or falling short. While it provides reliable support, it doesn't showcase any extraordinary qualities or go beyond the standard to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unsatisfactory.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No particular impact.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of customer service was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the allotment.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of support from the sales attendant was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No remarkable qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Letdown.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the stipend.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service provided was disappointing, and my concerns were not addressed adequately.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing special.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine service with no significant positive or negative impressions.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service provided no solutions to my problems, exacerbating my dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unimpressive.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations. It falls within the average range and doesn't stand out as exceptional. It is neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unimportant.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered a dismissive and unresponsive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered dismissive and unprofessional behavior from customer service, making the experience unpleasant.I disliked it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No strong sentiment.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently falls short of delivering the promised level of support. The assistance provided is unhelpful, and the overall experience is frustrating and unsatisfactory.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product has become an essential part of my daily routine.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm satisfied with the results and would recommend this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Dealing with customer service was a headache, and my issues were left unresolved.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product has proven to be reliable, innovative, and user-friendly.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Bravo!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently falls short of delivering the promised level of support. The assistance provided is unhelpful, and the overall experience is frustrating and unsatisfactory.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I value the exceptional service and support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's dedication to customer satisfaction is truly outstanding.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thankful for the exceptional service provided by the knowledgeable and friendly sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the assessment.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Kudos to the sales attendant for their excellent customer service skills and dedication to customer satisfaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Outstanding service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's lack of empathy and indifference made the experience frustrating and dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is a letdown, consistently falling short of expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team's responsiveness contributed to a positive experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "This has been a fantastic experience from start to finish.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the climax.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and indifference contributed to a negative overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered unprofessional and rude behavior from the customer service representatives.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the measurement.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the inconvenience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's lack of professionalism and competence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was neutral.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's lack of professionalism and competence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to emphasize.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Outstanding service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the sacrifice.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support met the standard requirements without offering anything extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the cap.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service ensured a smooth resolution to my inquiry.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "My experience with the service has been consistently negative; the support provided is ineffective, and the overall level of assistance is below par. It's disheartening to encounter challenges without adequate resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant displayed a lack of courtesy and failed to address customer needs effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant displayed a lack of courtesy and failed to address customer needs effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm elated!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was typical.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service representatives were unhelpful, providing no resolution to my problems.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is substandard, offering a disappointing user experience with a lack of essential features. It consistently fails to meet expectations, and the overall quality is below industry standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Just normal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a disappointment; it lacks the promised functionality, and the overall user experience is marred by frequent issues. It fails to deliver on its advertised features, leading to frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not satisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant displayed a lack of courtesy and failed to address customer needs effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing spectacular.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the effort.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to get excited about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service team is attentive and responsive to concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product has made my life easier, and I couldn't be happier.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the uniting.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues that disrupt the user experience. It consistently fails to meet expectations, and the overall quality is disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No particular excitement.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It's a middle-of-the-road experience. The service provides what is expected without exceeding or falling short of standard levels. I have a neutral opinion without any strong positive or negative feelings.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral service from the sales attendant with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered a dismissive and unapproachable attitude from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither here nor there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Dealing with customer service was a complete letdown, with no resolution to my concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Adequate support without standing out in any way.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who provided unhelpful and inefficient service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Fast and efficient service\u2014exactly what I needed.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Spectacular job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance provided met standard expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was frustrating, with no effort made to understand my problem.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's genuine interest in assisting customers and creating a positive atmosphere is commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team made me feel heard and valued as a customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant was unhelpful and unresponsive, leading to a disappointing experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm dissatisfied with the customer service. The team's unresponsiveness and lack of resolution to my concerns have left me frustrated and unsatisfied. I expected better communication and support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the outlay.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Just average performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the team's expertise in addressing concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is as expected, offering a standard set of features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not the quality I was expecting.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the crescendo.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's positive and upbeat attitude enhanced my overall shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm happy with the service's reliability and consistent results.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Terrific work!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Discontent.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unprofessional, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I can confidently recommend this service to others.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a great experience with customer support; they were very accommodating.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No strong opinion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team is great; they really care about making customers happy.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Incredible job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a great experience with customer support; they were very accommodating.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the tariff.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is satisfactory, meeting the expected level of support. It provides assistance as required without going above and beyond. While it fulfills its purpose, it doesn't offer any exceptional qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service representatives were unresponsive and unhelpful, exacerbating my dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's uncooperative behavior and lack of empathy made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is easy to use and has made my life simpler.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thrilled with the user-friendly design and functionality of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Just a regular occurrence.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not the quality I expected.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Routine support experience from the sales attendant with no outstanding positive or negative aspects.It was normal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine support without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Annoying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm satisfied with the outstanding service and responsiveness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product's versatility exceeded my expectations, adding convenience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service failed to provide adequate assistance, leaving me dissatisfied and frustrated.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to rave about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing out of the ordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was basic.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral customer service with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No standout moments.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard service that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine behavior from the sales attendant without remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a disappointment; it lacks the promised functionality, and the overall user experience is marred by frequent issues. It fails to deliver on its advertised features, leading to frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a regrettable experience with customer service, marked by unresponsiveness and incompetence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's willingness to assist and answer questions made a significant difference.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was average at best.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm pleased with the attentive and friendly customer service I encountered.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of customer service was neutral, with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the wage.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is valuable to my work, and I appreciate it.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is neither good nor bad, delivering what is expected without exceeding or falling short.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's dedication to helping customers find the right products is commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is neither good nor bad, delivering what is expected without exceeding or falling short. While it provides reliable support, it doesn't showcase any extraordinary qualities or go beyond the standard to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I was deeply disappointed with the lack of competence and effectiveness in customer service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service has exceeded my expectations, and I'm a happy customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product's simple design makes it a pleasure to use.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I find the product to be neutral in its overall performance. It meets the expected criteria, providing a satisfactory user experience without any standout features. It falls within the realm of acceptability but lacks the wow factor.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I left the store feeling confident and satisfied, thanks to the support of the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant provided satisfactory assistance without remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was the usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant displayed a lack of professionalism and competence, contributing to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Poor quality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing spectacular.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I felt neglected by customer service, and my issues were brushed aside without resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Displeasing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is acceptable, delivering what is expected without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Satisfactory support was provided during the interaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No special highlights.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm grateful for the outstanding assistance provided by the support team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Excellent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's behavior during the interaction was neutral and routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the timely and effective assistance from the support team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's uncooperative behavior and lack of empathy made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the tab.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance from the sales attendant without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a letdown, offering a substandard user experience with frequent glitches and performance issues. It doesn't deliver on its promises, and the overall quality is disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to remember.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm dissatisfied with the service; it consistently fails to provide adequate support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is subpar, providing inadequate assistance and solutions.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither thrilling nor boring.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's lack of professionalism and competence made the interaction frustrating.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was run-of-the-mill.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance without remarkable standout qualities. While it meets the basic requirements, it doesn't go the extra mile to provide an exceptional level of support or service.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product not only meets but exceeds my expectations. Its features and performance are beyond compare. I've recommended it to friends and colleagues, and they, too, have expressed their satisfaction with this incredible offering.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of customer service was neutral, with no notable positive or negative elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Could be better.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The simplicity of the product's design makes it a pleasure to use.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and lack of helpfulness resulted in a disappointing experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team's expertise was evident in resolving my issue.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neutral assistance in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither remarkable nor unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I hold a neutral stance regarding the service. It delivers the promised level of support without remarkable standout qualities. While it fulfills the basic requirements, it lacks the extra elements that would elevate it to an exceptional level.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered unprofessional behavior from customer service, making the experience unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features without any extraordinary qualities. While it fulfills the basic requirements, it lacks standout innovations or features that would make it memorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing remarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the team's dedication to delivering exceptional outcomes.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm dissatisfied with the product; it doesn't meet basic requirements.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No significant difference.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service was unhelpful and provided no resolution to my concerns, leaving me dissatisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service was disappointing, and I regret choosing it. The team's inability to address my needs and provide effective solutions has led to a negative experience. I'm dissatisfied with the level of service received.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service was uncooperative, leaving me frustrated and dissatisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to write home about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Sales attendant's behavior was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Frustrating.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of customer service was neutral, with no notable positive or negative elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team is patient and dedicated to resolving issues.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the pinnacle.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's commitment to customer satisfaction was evident throughout my visit.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the investment.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I received subpar customer service from the sales attendant, who failed to meet basic expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No big deal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unsatisfactory service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a seamless and pleasant shopping experience thanks to the helpful sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team's efficiency saved me time and frustration.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered dismissive behavior from customer service, leaving me feeling undervalued and ignored.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Terrible experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Kudos to the team for delivering exceptional outcomes.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm happy with the results achieved, and I would recommend this service to others.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features. While it provides the expected functionality, it doesn't showcase any innovative or extraordinary qualities that would make it stand out in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service representatives were unhelpful, offering no solutions or assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service was standard, meeting basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was commonplace.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of customer service was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral customer service with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Support received was in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the concoction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm pleased with the customer service team's dedication to solving problems.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service experience was neutral and routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled with the level of professionalism and support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service ensured a hassle-free resolution to my issue.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was typical.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Negative experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the dosage.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Exceptional service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service provided by the sales attendant was standard and efficient.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who provided unhelpful and inefficient service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "This product has met all my requirements and more.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is neither good nor bad, delivering what is expected without exceeding or falling short.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the crest.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to get excited about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that met basic needs without going above and beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "My experience with the service has been frustrating; the level of support is consistently poor, with long response times and inadequate solutions. It falls short of providing the expected assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance from the sales attendant with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Just a regular occurrence.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm grateful for the excellent service; it made a positive difference.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unpleasing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a positive experience with customer service, thanks to their professionalism.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's professionalism and attention to detail made a lasting impression.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a neutral opinion about the service; it provides the expected level of support.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service provided was unacceptable, with no effort made to address my valid concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features without any extraordinary qualities. While it fulfills the basic requirements, it lacks standout innovations or features that would make it memorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of professionalism displayed by the team is truly impressive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance received met basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was just fine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the team's dedication to delivering exceptional outcomes.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I was frustrated with the lack of assistance and professionalism from customer service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm unsatisfied with the results. The product's performance and functionality fall short of expectations, and I feel let down by the promises made. I expected a better experience and am disappointed with the outcome.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was uneventful.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The assistance provided by customer service was satisfactory but did not exceed expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the joining.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered a dismissive attitude and uncooperative behavior from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Kudos to the sales attendant for going above and beyond to meet my needs.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The representatives in customer service were unhelpful, offering no solutions to my problems.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The team's friendly and approachable demeanor made the entire experience enjoyable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "My experience with the service has been consistently negative; the support team is unresponsive, and the provided solutions are ineffective. It's disheartening to encounter challenges without adequate assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unprofessional, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the synthesis.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average customer service without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Marvelous service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Remarkable job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Brilliant job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was passable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities. It meets the expected criteria but doesn't offer any standout innovations. It's a typical offering in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service demonstrated a genuine interest in helping me.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Standard assistance that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Excellent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team's prompt assistance was crucial for my positive experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's courtesy and helpfulness made a positive impression on me.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's dedication to creating a positive customer experience was evident throughout.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine customer service experience with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues that disrupt the user experience. It consistently fails to meet expectations, and the overall quality is disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not my cup of tea.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard protocol.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service provided was neutral, meeting the standard requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product's reliability and performance exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance received from the sales attendant met basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered dismissive behavior from customer service, leaving me feeling unimportant and dissatisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the ransom.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support provided met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the level of expertise and professionalism displayed.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's lack of empathy and indifference made the experience frustrating and dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Dealing with customer service was a frustrating experience, with no regard for customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No positive outcome.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm extremely satisfied with the results achieved through this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I have a neutral opinion about the product. It offers a standard set of features without any remarkable qualities. While it may appeal to some, it doesn't particularly resonate with me.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard protocol.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team's responsiveness has made a significant impact on my experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neutral assistance from the sales attendant that fulfilled basic requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team's responsiveness made a significant impact.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service went above and beyond to ensure my satisfaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Dealing with customer service was a nightmare, and my concerns were not addressed adequately.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm pleased with the quality of the service and the quick resolution of my concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who provided unhelpful and inefficient service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm pleased with the attentive and friendly customer service I encountered.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral customer service experience with no exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service provided was neutral, meeting the standard requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Regrettable.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was nondescript.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the team for delivering excellent service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered dismissive and apathetic behavior from customer service, leaving me frustrated and ignored.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not what I needed.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm grateful for the positive experiences I've had with this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I felt valued as a customer due to the personalized attention from the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the amassing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is subpar, offering a disappointing user experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm head over heels!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral customer service experience with no exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm consistently satisfied with the level of service provided.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's lack of professionalism and competence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard operating.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Splendid service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm dissatisfied with the service; the support team is unhelpful, and the assistance provided is inadequate. It consistently falls short of delivering the expected level of support, resulting in frustration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm delighted with the outstanding service provided by the team. From start to finish, the experience has been nothing short of exceptional. The attention to detail, responsiveness, and dedication to customer satisfaction are truly commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unpleasant experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's uncooperative behavior and lack of empathy made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "This product has met all my requirements and more.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues that disrupt the user experience. It consistently fails to meet expectations, and the overall quality is disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service met the basic requirements without delivering an exceptional experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the peak.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither thrilling nor boring.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a game-changer, and I'm grateful for its existence.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is disappointing; it lacks necessary features for a good experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the recipe.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team consistently goes above and beyond to assist.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unimpressive.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the expenditure.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm impressed with the support team's commitment to customer satisfaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had an unsatisfactory experience with customer service, marked by incompetence and unresponsiveness.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the brew.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No strong reaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Adequate assistance for the situation at hand.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was okay.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine service with no significant positive or negative impressions.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the score.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the support team's commitment to resolving problems promptly.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered a dismissive and unresponsive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was infuriating, with no effort made to address my valid concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team's prompt assistance has been crucial in my positive experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of customer service provided was neither exceptional nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a neutral opinion about the service; it fulfills the expected criteria without exceeding or falling short. The level of support is satisfactory, but it doesn't go above and beyond to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the prescription.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was neutral.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not the best choice.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not worth it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not my top pick.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average customer service without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Fair enough.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Hated it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not my first option.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the toll.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service provided met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the sales attendant's friendly and approachable demeanor, creating a welcoming atmosphere for customers.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's lack of empathy and indifference made the experience frustrating and dissatisfying.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to underscore.",
+    "label": "Neutral"
+  },
+  {
+    "text": "This service consistently delivers excellence and exceeds expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm extremely satisfied with the support team's responsiveness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thrilled with the user-friendly design and functionality of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is unreliable, with frequent glitches and performance issues.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Unsatisfactory customer service from the sales attendant, who was unresponsive to customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "My experience with the service has been consistently negative; the support provided is ineffective, and the overall level of assistance is below par. It's disheartening to encounter challenges without adequate resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service was neutral, meeting the basic expectations without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the infusion.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the team's dedication to providing exceptional service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance received from customer service was adequate for the situation.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product's user-friendly interface made my tasks more manageable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is subpar, providing a disappointing user experience with a lack of essential features. It consistently fails to meet expectations, and the overall quality is below industry standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unexceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations. While it provides reliable assistance, it doesn't showcase any extraordinary qualities or go beyond the standard to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who provided ineffective and unhelpful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance without remarkable standout qualities. While it meets the basic requirements, it doesn't go the extra mile to provide an exceptional level of support or service.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Underwhelming.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is a letdown, failing to meet the expected level of quality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of support from the sales attendant was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Dealing with customer service was a frustrating experience, with no regard for customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thankful for the attentive and knowledgeable assistance provided by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm satisfied with the level of professionalism displayed by the entire team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm happy with my decision to choose this service; it has met all my requirements.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service ensured a hassle-free resolution to my issue.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was just there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Didn't meet expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Support provided by the sales attendant met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service has added great value to my work, and I'm thrilled with the outcomes.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Wouldn't choose it in the future.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered indifferent and apathetic behavior from the customer service team.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the top.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Sales attendant offered average support with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was regrettable, with no resolution to my concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unnoticeable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm pleased with the prompt and effective assistance I received.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support received met the standard criteria without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thankful for the outstanding support provided by the customer service team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard procedure.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service representatives were unhelpful and seemed disinterested in solving my issue.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Superb service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I value the personalized attention and helpful recommendations provided by the dedicated sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I left the store with a smile, thanks to the outstanding service provided by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither remarkable nor unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that met basic needs without going above and beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No significant impact.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is unsatisfactory; it consistently falls short of expectations and lacks the necessary features for a seamless user experience. It's frustrating to encounter issues regularly without resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Top-notch service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No strong sentiment.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service representatives were unhelpful and showed no interest in solving my issue.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was infuriating, marked by incompetence and a lack of accountability.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was passable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I value the excellent customer service experience I consistently receive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is consistently reliable, and I'm a satisfied customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was what I expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's efficiency in resolving issues showcases their commitment.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service exhibited a lack of competence, leaving me dissatisfied and frustrated.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's lack of courtesy and professionalism.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unprofessional, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I value the exceptional service and support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team is knowledgeable and always goes the extra mile to help.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm delighted!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's unprofessional and indifferent behavior resulted in a disappointing experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No strong opinion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of support from the sales attendant was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unfavorable.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Lackluster.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm happy with the professionalism of the entire team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular opinion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No strong feelings.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Wonderful job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the premium.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thankful for the helpful and friendly customer service I received.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm consistently satisfied with the level of service provided.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Kudos to the sales attendant for creating a welcoming and comfortable shopping environment.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm satisfied with the outstanding service and the team's responsiveness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service experience was neutral and routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not at all what I was hoping for.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The simplicity of the product's design makes it a pleasure to use.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Fantastic job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thrilled with the level of professionalism displayed by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is disappointing; it lacks necessary features for a good experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "This service consistently delivers excellence and exceeds expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of customer service was neutral with no outstanding elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I was dissatisfied with the lack of competence and responsiveness exhibited by customer service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was moderate.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of support was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral behavior from the sales attendant with no extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product has become an essential part of my routine, and I'm pleased with its performance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular distinction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral customer service with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither remarkable nor unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I was frustrated with the lack of assistance and accountability displayed by customer service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities. While it meets the basic requirements, it lacks standout innovations or features that would set it apart from similar products.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a disappointment; it lacks the promised functionality, and the overall user experience is marred by frequent issues. It fails to deliver on its advertised features, leading to frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the ration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The team's commitment to customer success is truly commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I appreciate the product's intuitive features for easy navigation.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Phenomenal service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Great customer service; I'm grateful for the experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product has become an indispensable part of my daily routine.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service was incredibly helpful, and I'm grateful for the support provided.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine support experience with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Fantastic job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard quality.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the tribute.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant was impolite and lacked the necessary skills to address customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I left the store feeling satisfied and confident in my purchase, thanks to the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support met the standard criteria without adding any extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Fabulous job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the price.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of customer service was neutral with no outstanding elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the quantity.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was moderate.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral assistance in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I wouldn't use it again.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a negative experience with customer service, marked by incompetence and unresponsiveness.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was uneventful.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The assistance from customer service was neither outstanding nor subpar.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a negative opinion about the service; it lacks helpful support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the measure.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team is proactive in addressing customer needs.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Magnificent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Satisfactory support from the sales attendant without standing out in any way.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unimpressive.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Didn't enjoy it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine service from the sales attendant without exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "A regular experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the yield.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not my preferred option.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The team's commitment to excellence sets them apart from the rest.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Top-notch service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Poorly done.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm dissatisfied with the service; the support team is unresponsive, and the assistance provided is inadequate. It consistently falls short of delivering the expected level of support, resulting in frustration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's service was neutral and routine, meeting the standard requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard support without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the sales attendant for creating a positive and memorable shopping atmosphere.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is user-friendly and has simplified my tasks considerably.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Brilliant job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No remarkable qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the summit.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing spectacular.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Splendid service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's dedication to customer satisfaction is truly outstanding.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any exceptional features. It falls within the standard range and doesn't stand out in terms of innovation or performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unexciting.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the crown.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard practice.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service provided a solution that exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is unreliable, with frequent issues and downtime.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Just so-so.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I left the store feeling happy and satisfied, thanks to the outstanding service provided by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of customer service provided was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It exceeded my expectations!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is not worth the money. Its functionality and performance do not justify the cost, and I feel misled by the pricing. I'm dissatisfied with the overall value and regret making the purchase.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's friendly and approachable nature made me feel comfortable asking for help.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I experienced subpar customer service from the sales attendant, who lacked the skills to provide satisfactory support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance received met basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral assistance in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service made me feel like a valued and important customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's service met standard criteria without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues that disrupt the user experience. It consistently fails to meet expectations, and the overall quality is disappointing.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Average service from the sales attendant without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I find the product to be unsatisfactory with frequent glitches.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the blend.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to rave about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Excellent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neutral experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support provided was standard, meeting the basic requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm ecstatic!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard practice.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm happy with the exceptional service provided by customer support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Terrific job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is a valuable asset to my work, and I appreciate its functionality.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unmemorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Prompt and efficient service\u2014I couldn't ask for more.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine assistance was provided by the sales attendant without exceeding basic requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral customer service experience with no extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not up to my standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on top of the world!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service representative was patient and understanding.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is a game-changer, and I'm grateful for its existence.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered dismissive and unprofessional behavior from customer service, making the experience unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard procedure.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not the service I expected.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had an enjoyable shopping experience, largely due to the helpful and courteous sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine service from the sales attendant with no significant positive or negative impressions.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service did not meet my needs. Despite expectations, the team's inability to address my requirements has resulted in a negative experience. I expected better service and am dissatisfied with the overall outcome.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Kudos to the sales attendant for making me feel valued and appreciated as a customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was typical.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not a fan.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Absolutely fabulous!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service met the basic needs without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product has made my life easier, and I couldn't be happier.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm impressed with the sales attendant's ability to create a personalized and enjoyable shopping journey.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unimportant.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Sales attendant provided adequate assistance for the situation at hand.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team consistently goes above and beyond to assist.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine customer service experience without exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm overjoyed!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team went above and beyond to address my concerns. Their prompt and efficient response was crucial in resolving the issues I faced. I am grateful for their commitment to ensuring a positive customer experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the portion.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was just fine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant provided adequate support without standing out in any way.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received poor customer service, marked by a complete disregard for customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the support team's efforts in addressing my concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to remember.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing to remember.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I couldn't be happier with the product and the support received.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm grateful for the exceptional service and product knowledge demonstrated by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not my choice.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I was disappointed with the lack of professionalism and competence displayed by customer service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the quantity.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the sum.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in seventh heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's friendliness made the entire shopping process stress-free.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm pleased with the proactive assistance I received from the attentive sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular impact.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is neither good nor bad, delivering what is expected without exceeding or falling short.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I made the right choice with this service; it meets all my needs.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team consistently goes above and beyond to assist.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The assistance received from customer service was adequate for the circumstances.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is simple to use and has made a significant difference in my daily routine.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not my preference.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the formula.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not at all worth the hassle.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and indifference contributed to a negative overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was average, with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received subpar customer service from the sales attendant, who failed to meet basic expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm extremely pleased with the overall quality of the service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine service with no significant positive or negative impressions.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support provided met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service received was satisfactory for the transaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing special.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team is courteous and provides assistance with a smile.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected without exceeding or falling short. While it meets the basic requirements, it doesn't go above and beyond to deliver a standout or exceptional customer support experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No special highlights.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Top-notch service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's commitment to customer satisfaction is evident in every interaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I have a neutral opinion about the service. It provides the expected level of support without leaving a lasting impression. While it may suit the needs of some users, it doesn't particularly stand out for me.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was run-of-the-mill.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of support was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is acceptable, providing what is promised without exceeding expectations. While it delivers the expected level of support, it doesn't go beyond the standard to provide a noteworthy or exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I value the exceptional service and support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm thrilled with the user-friendly design and functionality of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is prompt, efficient, and consistently excellent.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm extremely satisfied with the support team's responsiveness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service that was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Amazing job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I appreciate the team's dedication to providing exceptional service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the culmination.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was commonplace.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product fails to deliver the promised functionality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Kudos to the team for their commitment to delivering top-quality service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was vanilla.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is average, providing a middle-of-the-road experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither outstanding nor lacking.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the mound.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's genuine interest in helping me find what I needed was evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant displayed a lack of courtesy and failed to address customer needs effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the evaluation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Satisfactory support that fulfilled basic requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I regret choosing it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Marvelous job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Could improve.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service representatives lacked basic courtesy and failed to address my needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "My experience with the service has been consistently negative.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm overjoyed!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's attention to detail is commendable, ensuring a flawless experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "From the moment I started using the product, I knew I had made the right choice. Its reliability, performance, and versatility have exceeded my expectations. The investment in this product has proven to be worthwhile, and I am a happy and satisfied customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's lack of professionalism and competence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who provided ineffective and unhelpful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I don't feel strongly about the service. It provides the expected level of support without leaving a lasting impression. It is neither exceptional nor subpar, making it a neutral experience for me.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's attention to detail and commitment to excellence are evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Displeasure.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service demonstrated a genuine interest in helping me.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm dissatisfied with the service; the support team is unresponsive, and the assistance provided is inadequate. It consistently falls short of delivering the expected level of support, resulting in frustration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was regrettable, with no effort made to address my concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Brilliant service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Spectacular job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm impressed with the efficiency and effectiveness of the sales attendant's assistance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product delivers a standard user experience, providing essential features without any remarkable standout qualities. While it meets the basic requirements, it lacks the wow factor that distinguishes it from other similar products in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unsatisfactory customer service from the sales attendant, who was unresponsive to customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was neutral and routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Phenomenal service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not particularly noteworthy.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the efficient and effective support from the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the heap.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was neither exceptional nor subpar.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received inadequate service from the sales attendant, who lacked the necessary skills to assist effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Poor performance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Adequate support without standing out in any way.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Sales attendant behavior met basic needs without going above and beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not my first choice.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm pleased with the reliability of the service; it consistently delivers results.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered a dismissive and unresponsive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Regretful choice.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Sales attendant's service met basic expectations without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither here nor there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No standout elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's unprofessional conduct and lack of competence resulted in a disappointing encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Phenomenal service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to highlight.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm enchanted!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not at all what I was looking for.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the sales attendant's honesty and transparency in explaining product features.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unexceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It didn't stand out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a positive interaction with customer service; they were very helpful.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service representative was patient and understanding.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's lack of professionalism and competence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Unfavorable outcome.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm grateful for the team's dedication to excellence in every aspect.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm dissatisfied with the service; it consistently provides poor support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to write home about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the team's efforts in ensuring a positive customer experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's uncooperative behavior and lack of empathy made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I encountered a dismissive attitude and uncooperative behavior from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm extremely satisfied with the overall quality and performance of the service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team consistently goes above and beyond to assist.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's commitment to customer satisfaction is evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of support was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Awful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service provided a solution that exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine support experience with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm happy with the quick and friendly resolution provided by support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the price.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Avoid at all costs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I wouldn't choose it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was basic.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's unprofessional conduct and lack of competence resulted in a disappointing encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Adequate assistance for the situation at hand.",
+    "label": "Neutral"
+  },
+  {
+    "text": "My experience with the service has been consistently negative; the support provided is ineffective, and the overall level of assistance is below par. It's disheartening to encounter challenges without adequate resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was moderate.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support met the standard requirements without offering anything extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that met basic expectations without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a negative opinion about the service; it's consistently substandard.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was average, with no notable positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Displeased with it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's unresponsive and disinterested conduct resulted in a frustrating encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Standard service that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm disappointed with the service; it consistently lacks helpful assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The team pays attention to details, ensuring a flawless experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not good or bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of customer service was neutral with no outstanding elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a neutral opinion about the service; it meets the expected criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was just there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Failed to meet needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing remarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product exceeded my expectations, and I'm impressed with its functionality.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm satisfied with the excellent support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard procedure.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the amalgamation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I value the excellent customer service experience I had.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "My experience with the service has been consistently negative; the support provided is ineffective, and the overall level of assistance is below par. It's disheartening to encounter challenges without adequate resolution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm walking on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely wouldn't use again.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is disappointing; it lacks essential features and quality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I received terrible customer service, with no effort made to understand or resolve my issue.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service met the standard expectations without exceeding them.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not recommended.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I value the personalized attention and care provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Fantastic experience!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing to rave about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "This service consistently delivers excellence and exceeds expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard treatment.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither here nor there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unprofessional, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is substandard, offering a disappointing user experience with a lack of essential features. It consistently fails to meet expectations, and the overall quality is below industry standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service provided was neutral, meeting the standard requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service offers a standard level of assistance, providing reliable support without remarkable standout features. It is acceptable in meeting customer needs, but it doesn't showcase any innovative or extraordinary qualities that set it apart.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the sales attendant's commitment to ensuring customers have a positive and satisfying experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's unprofessional conduct and lack of competence resulted in a disappointing encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Incompetent service from the sales attendant, leading to frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is substandard, offering a disappointing user experience with a lack of essential features. It consistently fails to meet expectations, and the overall quality is below industry standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to emphasize.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm grateful for the excellent service; it has made a positive difference.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The behavior of the sales attendant was neutral with no extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm dissatisfied with the service; it consistently falls short of expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service offers a standard level of assistance without going above and beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant provided inadequate assistance, showing a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard fare.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service was standard and efficient.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was okay.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is a disappointment; it lacks the promised functionality, and the overall user experience is marred by frequent issues. It fails to deliver on its advertised features, leading to frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is a disappointment; it lacks the promised functionality, and the overall user experience is marred by frequent issues. It fails to deliver on its advertised features, leading to frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm grateful for the outstanding customer service; it's a refreshing experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the junction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not much to say.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant displayed a lack of empathy and failed to address customer needs effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm on a high!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard procedure.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support offered was standard, providing the necessary information without going above and beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm on a high!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not particularly noteworthy.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is user-friendly and simplified my tasks.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was basic.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product's simple design makes it a pleasure to use.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in love!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Just normal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm frustrated with the service; it consistently provides subpar support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the hoarding.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was okay.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team is friendly and made the experience enjoyable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Kudos to the sales attendant for making my shopping experience both enjoyable and efficient.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Standard support without exceeding basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I experienced poor customer service from the sales attendant, who failed to meet basic expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm dissatisfied with the service; it consistently provides poor support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected without exceeding or falling short. While it meets the basic requirements, it doesn't go above and beyond to deliver a standout or exceptional customer support experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unnoticeable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Adequate support without standing out in any way.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Bravo!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team's responsiveness contributed to a positive experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is subpar, offering a frustrating user experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service that was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's commitment to customer success is truly commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and unhelpful, contributing to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm happy with the service; they resolved my issues quickly.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I was disappointed with the sales attendant's uncooperative and unresponsive behavior.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Standard support from the sales attendant without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was commonplace.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support met the standard criteria without adding any extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is disappointing and doesn't live up to its promises.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service experience was neither exceptional nor subpar, falling within average expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm disappointed with the service; it consistently lacks helpful assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Phenomenal job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was run-of-the-mill.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the quick response and resolution from support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Spectacular job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm grateful for the support team's dedication to customer happiness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No standout moments.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unsatisfactory customer service from the sales attendant, who was unresponsive to customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I value the personalized service and genuine care demonstrated by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in seventh heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who exhibited a lack of empathy and understanding.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Stellar service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the cost.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant provided unhelpful and inefficient service, leading to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team is always ready to help and responds quickly.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Dealing with customer service was a waste of time, as my concerns were not taken seriously.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is neither good nor bad. It delivers what is expected without exceeding or falling short of standard levels. I have a neutral experience without any significant positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the consolidation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm unhappy with the support provided. The team's unresponsiveness and lack of resolution to my concerns have left me dissatisfied. I expected better customer service and am disappointed with the overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm grateful for the patience the sales attendant showed while helping me find the right product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing out of the ordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance without remarkable standout qualities. While it meets the basic requirements, it doesn't go the extra mile to provide an exceptional level of support or service.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the apex.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a great shopping experience, and the sales attendant played a key role in that.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard issue.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the product's reliability and consistent performance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neutral experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard operating.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I value the excellent customer service experience I consistently receive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm satisfied with the excellent support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a regrettable experience with customer service, marked by unresponsiveness and incompetence.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the team's dedication to customer satisfaction; it's truly impressive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The positive impact of the product on my work is evident, and I'm pleased with the results.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant provided assistance without any notable positive or negative elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Splendid job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was uneventful.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service provided met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received subpar customer service from the sales attendant, who failed to meet basic expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neutral customer service experience with no extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The assistance provided met standard expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Average customer service without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No particular excitement.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and indifference contributed to a negative overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the remuneration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the accumulation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant was incredibly helpful and attentive throughout my shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unspectacular.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's commitment to ensuring customer satisfaction was evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The level of customer service was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Assistance from the sales attendant was routine and met basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's dismissive attitude and indifference contributed to a negative overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support provided was standard, meeting the basic requirements without going beyond.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service was inefficient and unresponsive, leaving me dissatisfied and frustrated.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of expertise demonstrated by the team is truly impressive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Average assistance without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team is courteous and always assists with a smile.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant exhibited a lack of knowledge and competence, resulting in a frustrating encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unexciting.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a positive interaction with the sales attendant, and their product knowledge was impressive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Sales attendant's behavior was neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unsatisfactory customer service from the sales attendant, who was unresponsive to customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "A job well done!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected without exceeding or falling short. While it meets the basic requirements, it doesn't go above and beyond to deliver a standout or exceptional customer support experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the expense.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm satisfied with the prompt and helpful response from customer service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a negative experience with the sales attendant, who provided ineffective and unhelpful service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is substandard, offering a disappointing user experience with a lack of essential features. It consistently fails to meet expectations, and the overall quality is below industry standards.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product fell short of what was promised. Its functionality and performance do not align with the advertised features. I feel misled and am dissatisfied with the overall quality and value.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who provided unhelpful and inefficient service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard treatment.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm on a high!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard service from the sales attendant without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's positive and accommodating attitude enhanced my shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Outstanding job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was nondescript.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the grade.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the rating.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine customer service experience with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It's a middle-of-the-road experience; the service provides what is expected.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm disappointed with the product. Its features and functionality do not align with the promises made. I feel deceived by the advertising and am dissatisfied with the overall quality and performance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm overjoyed!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I can't express how satisfied I am with the level of professionalism demonstrated by the entire team. From the initial inquiry to the final delivery, every step was handled with care and expertise. Thank you for making the process so smooth and enjoyable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was the usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant provided standard service without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service that met basic expectations without standing out.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No strong emotion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product not only meets but exceeds my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product has made my life easier, and I couldn't be happier.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm satisfied with the level of attention and care from customer service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Incredible job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product fails to deliver a satisfactory user experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No strong reaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Stellar job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Dealing with customer service was a frustrating experience, with no resolution to my concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of customer service was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is satisfactory, meeting the expected level of support.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm happy with the exceptional service provided by customer support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I don't have strong feelings about the service; it provides the expected level of support.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing to write home about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unexceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Average support was offered by the sales attendant during the interaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Outstanding performance!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm impressed with the product's reliability and performance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing to underscore.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Bravo!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm dissatisfied with the service; the support team is unresponsive, and the assistance provided is inadequate. It consistently falls short of delivering the expected level of support, resulting in frustration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is essential to my routine, and I'm pleased with its performance.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Superb service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard operating.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a negative experience with customer service, marked by a lack of professionalism.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Ineffective assistance from the sales attendant, who failed to address customer concerns adequately.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team made me feel heard and valued as a customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team's proactive approach stands out in delivering quality service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team is proactive in addressing customer needs.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I have a neutral opinion about the service; it provides the expected level of support without remarkable standout features. While it fulfills the basic requirements, it doesn't go above and beyond to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Excellent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant demonstrated a lack of courtesy and failed to provide adequate support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance from the sales attendant with no exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's positive attitude and willingness to assist stood out during my visit.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's unapproachable and indifferent behavior made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Standard support meeting basic criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the integration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product has proven to be reliable, innovative, and user-friendly.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's unresponsive and uncooperative behavior contributed to a negative encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service provided met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "A job well done!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unnoticeable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The assistance provided by customer service was in line with standard expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No particular distinction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the support team's efforts in addressing my concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I received subpar customer service from the sales attendant, who failed to meet expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the team's efforts in ensuring a seamless and enjoyable experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's unprofessional conduct and lack of competence resulted in a disappointing encounter.The customer service was extremely disappointing, with no resolution to my concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered a dismissive and unresponsive attitude from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing to get excited about.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Adequate assistance for the situation at hand.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm extremely satisfied with the support team's responsiveness.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's expertise and genuine interest in helping customers are commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is average, delivering a middle-of-the-road experience without any exceptional features. While it meets the basic requirements, it doesn't offer any remarkable innovations or standout qualities that would make it memorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's knowledge of the products was instrumental in my purchase decision.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard fare.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was neutral, with no significant positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had an unsatisfactory experience with customer service, characterized by incompetence and indifference.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's unprofessional conduct and lack of competence resulted in a disappointing encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was run-of-the-mill.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team made the entire process easy and stress-free.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service provided no solutions to my problems, exacerbating my dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product has become an indispensable part of my daily routine.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "A job well done!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the mixture.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Could be better.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is a letdown, failing to meet the expected level of quality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service met the standard expectations without delivering an exceptional experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was nondescript.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I wouldn't buy again.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No significant impact.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in seventh heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the collection.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neutral behavior from the sales attendant with no outstanding elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Stellar job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm impressed with the sales attendant's ability to make recommendations tailored to my needs.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of customer service was neutral, with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service did not live up to the hype. Despite expectations, the team's lack of expertise and inability to meet customer needs have resulted in a negative experience. I expected better and am dissatisfied with the overall level of service.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the stacking.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Incompetent service from the sales attendant, causing frustration and dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Unpleasant surprise.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unsatisfactory customer service from the sales attendant, who was unresponsive to customer needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Top-notch service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service was unresponsive and failed to provide timely assistance when needed.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Didn't like it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No strong opinion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is unreliable, with frequent crashes and technical issues.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team is always ready to assist with a positive attitude.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I value the personalized attention and care provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No standout moments.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's patience and willingness to assist with my inquiries were impressive.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team's efficiency saved me time and frustration.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No strong sentiment.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's behavior was discourteous and uncooperative, contributing to dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not the experience I wanted.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any standout features. While it provides the expected functionality, it doesn't showcase any innovative or extraordinary qualities that would make it stand out in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine service from the sales attendant with no remarkable features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the expenditure.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Satisfactory support was provided during the interaction.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard procedure.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service was unhelpful and showed no interest in resolving my concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I wouldn't recommend it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant provided expert advice, making my decision-making process much easier.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was business as usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service has added value to my work, and I love it.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No notable aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine customer service experience without exceptional features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Wouldn't use again.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service provided was unacceptably poor, with no effort made to rectify the situation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I had a positive and efficient experience with customer service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm frustrated with the service; the support team is consistently unresponsive.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I value the proactive assistance and courteous service provided by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No special highlights.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service was inefficient, and my issues were left unresolved despite multiple attempts.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard issue.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thankful for the outstanding support provided by the customer service team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in seventh heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither outstanding nor lacking.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No strong impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard treatment.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No value.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the sales attendant's dedication to making my shopping experience enjoyable and hassle-free.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm dissatisfied with the service. The team's lack of responsiveness and ineffective communication have led to a frustrating experience. I expected more and am disappointed with the level of support provided.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm frustrated with the service; it consistently falls short of expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Splendid service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Splendid service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing special.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the sales attendant for creating a positive and memorable shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is passable, meeting the basic requirements without offering any standout features. While it provides the expected functionality, it doesn't showcase any innovative or extraordinary qualities that would make it stand out in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No big deal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing to underscore.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received subpar service from the sales attendant, who lacked the skills to assist effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neutral service from the sales attendant with no significant positive or negative impressions.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance. While it may not go above and beyond, it provides a passable experience. I neither commend nor criticize the service.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard practice.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm impressed with the customer service team's commitment to excellence.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service representatives were unresponsive and unhelpful, exacerbating my dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was routine.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm indifferent about the product; it offers a standard set of features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm delighted with the simplicity and effectiveness of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I experienced the worst customer service, characterized by incompetence and a lack of empathy.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is acceptable, providing what is expected without standing out. It meets the standard criteria but doesn't leave a lasting impression. I have no major complaints but no notable praises either.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the product's intuitive features, making it easy to navigate.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the piling.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team failed to address my concerns. Despite reaching out for assistance, the team's unresponsiveness and lack of resolution have left me dissatisfied. I'm frustrated with the overall level of support received.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the ration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No notable aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service is reliable, responsive, and always ready to assist.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "A job well done!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered a dismissive and uncooperative attitude from the sales attendant, making the experience unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Support received was in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently falls short of delivering the promised level of support. The assistance provided is unhelpful, and the overall experience is frustrating and unsatisfactory.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I don't have strong feelings about the product; it offers a standard set of features without any extraordinary qualities. While it fulfills the basic requirements, it lacks standout innovations or features that would make it memorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Routine support experience from the sales attendant with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's commitment to delivering exceptional outcomes is evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I appreciate the courteous and helpful demeanor of the customer service team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither thrilling nor boring.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was average at best.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm delighted with the positive impact the product has had on my productivity.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the measure.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I regret choosing this product. Its performance and functionality do not align with the promises made. I feel deceived by the advertising, and I'm dissatisfied with the overall quality and value.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm frustrated with the service; the support team is unresponsive.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team is reliable and consistently provides great service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service received was standard, providing the necessary information without being exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's attitude was unfriendly, contributing to a negative overall experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm satisfied with the prompt and helpful response from customer service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service was standard and efficient.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance. It meets the expected criteria without going above and beyond. I neither commend nor criticize the service.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service representative was understanding and empathetic.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service provided no meaningful assistance, and my concerns were left unaddressed.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm not satisfied with the outcome. The product's performance and functionality fall short of expectations, and I feel let down by the promises made. I expected a better experience and am disappointed with the results.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Unsatisfactory customer service from the sales attendant, who was unresponsive to needs.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The assistance provided by customer service was satisfactory but did not exceed expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features. While it provides the expected functionality, it doesn't showcase any innovative or extraordinary qualities that would make it stand out in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not good.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard issue.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in seventh heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Amazing product!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No standout elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm on a high!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the money.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service demonstrated a high level of professionalism.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the settlement.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Remarkable job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The quality of service is exceptional, and I'm impressed.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service experience was neutral, with no significant positive or negative impressions.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service made me feel like a valued and important customer.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither remarkable nor unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the team for their dedication to delivering exceptional outcomes.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features. While it provides the expected functionality, it doesn't showcase any innovative or extraordinary qualities that would make it stand out in the market.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The positive impact of the product on my work is evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm disappointed with the service; it consistently falls short of expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the congregation.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is tolerable, offering a standard level of assistance without remarkable standout qualities. While it meets the basic requirements, it doesn't go the extra mile to provide an exceptional level of support or service.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was neutral.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service provided by the sales attendant met the standard criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Not up to par.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm displeased with the quality of the service. The team's lack of expertise and failure to meet expectations have resulted in a negative experience. I expected a higher standard of service and am dissatisfied with the outcome.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's unprofessional conduct and lack of competence resulted in a disappointing encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Exceptional job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product's versatility has exceeded my expectations, adding great convenience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm impressed with the innovation and features of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Routine support from the sales attendant without notable positives or negatives.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant displayed a lack of courtesy and failed to address customer needs effectively.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not at all what I wanted.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm extremely satisfied with the results achieved through this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I had a positive experience with customer service, thanks to their professionalism.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was passable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No big deal.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I received subpar customer service from the sales attendant, who failed to meet basic expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Top-notch service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered an unprofessional and disinterested attitude from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unimpressive.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The level of support from the sales attendant was neutral and without outstanding elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's lack of knowledge and indifference resulted in a frustrating experience.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in raptures!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Standard support from the sales attendant meeting basic criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Incredible performance!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Standard assistance that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's commitment to delivering exceptional outcomes is evident.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm on a high!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was run-of-the-mill.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team consistently provides excellent assistance. Their knowledge, responsiveness, and willingness to go the extra mile make them a valuable resource. I feel confident knowing that help is just a message away, and I appreciate the team's dedication to customer support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm frustrated with the service; it consistently provides inadequate assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a positive and satisfying experience with customer support.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was unspectacular.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service received was standard, providing the necessary information without being exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No strong emotion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is acceptable, meeting the basic requirements without offering any standout features.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not impressed.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the assembly.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not at all worth the wait.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Nothing exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I wouldn't use it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant was patient and took the time to address all my questions and concerns.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither positive nor negative.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard support without exceeding basic expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the frustration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm consistently satisfied with the level of service provided.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither thrilling nor boring.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I value the exceptional service and support provided by the team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Customer service was unhelpful and offered no solutions, exacerbating my dissatisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's professionalism and product knowledge set a high standard.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Great job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I received subpar customer service, and the representatives seemed untrained and unqualified.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unmemorable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the team's efforts in ensuring a seamless experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither remarkable nor unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm pleased with the efficient and attentive service provided by the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who demonstrated a lack of commitment to customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I have a negative opinion about the service; it's consistently substandard.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The product consistently falls short of expectations; it's unreliable.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I loved it!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Dealing with customer service was a frustrating experience, with no regard for customer satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm frustrated with the level of service. The team's lack of understanding and inability to address customer concerns have resulted in a negative experience. I expected more professionalism and support.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was unimportant.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product has become an indispensable part of my daily routine.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth my time.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Customer service failed to meet even the basic expectations, and my concerns were ignored.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm grateful for the team's dedication to excellence in every aspect of the service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard protocol.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Support received was in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently falls short of delivering the promised level of support. The assistance provided is unhelpful, and the overall experience is frustrating and unsatisfactory.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "No significant impact.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was ordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's commitment to excellence is evident in every interaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Unsatisfactory assistance from the sales attendant, who seemed disinterested in helping.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Average assistance with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unpleasant interaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm delighted with the simplicity and effectiveness of the product.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "My experience with the product is neutral; it neither excels nor disappoints. The product provides a middle-of-the-road experience, offering a standard set of features without any extraordinary attributes or notable innovations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Definitely not worth the restitution.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Certainly not worth the combination.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I have a negative opinion about the service; it consistently falls short of delivering the promised level of support. The assistance provided is unhelpful, and the overall experience is frustrating and unsatisfactory.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Support received from the sales attendant was in line with expected standards.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Subpar.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The support team is knowledgeable, making the experience seamless.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Amazing job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Below expectations.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not for me.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I don't have strong feelings about the product. It offers a standard set of features without any remarkable qualities. While it may be suitable for some users, it doesn't particularly resonate with me.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The customer service experience was regrettable, with no effort made to understand or rectify my issue.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm impressed with the level of expertise and professionalism displayed.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I appreciate the team's dedication to delivering exceptional outcomes.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Average assistance from the sales attendant without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard fare.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neutral experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm thrilled to bits!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Kudos to the team for their dedication to delivering top-notch service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No satisfaction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The assistance provided met standard expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neutral assistance from the sales attendant that fulfilled the necessary requirements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard support meeting basic criteria.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither thrilling nor boring.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was unexciting.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm on cloud nine!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The support team is knowledgeable and always helpful.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing extraordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Customer service exhibited a lack of accountability, and my concerns were not taken seriously.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the concoction.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm over the moon!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I appreciate the team's dedication to customer success.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "A regular experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was ordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I was dissatisfied with the sales attendant's service, which lacked courtesy and helpfulness.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm so happy!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I encountered a dismissive attitude and uncooperative behavior from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Exceptional service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the apex.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard practice.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm satisfied with the results and highly recommend this service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant displayed a lack of empathy and understanding, resulting in a negative encounter.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The assistance provided by customer service was in line with standard expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was the usual.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Standard support without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Exceptional service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was amazing!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard practice.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The team's dedication to customer satisfaction is commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Not worth the price.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Definitely not worth the money.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I had a negative encounter with the sales attendant, who lacked the necessary skills to assist.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard quality.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm glad I chose this service; it has exceeded my expectations.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Just a regular occurrence.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the mark.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "This service is truly exceptional. The personalized attention, clear communication, and commitment to customer satisfaction set it apart from the rest. I've had a positive and fulfilling experience, and I look forward to continued collaboration with this outstanding team.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Lousy.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not much to say.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I appreciate the excellent customer service provided by the knowledgeable sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations. While it provides reliable assistance, it doesn't showcase any extraordinary qualities or go beyond the standard to deliver an exceptional customer experience.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Stellar service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No strong emotion.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Amazing job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's enthusiasm and passion for their job made my shopping experience enjoyable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I love it!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's efficiency in resolving issues showcases their commitment to customers.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Kudos to the sales attendant for their exceptional service and commitment to ensuring a positive shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product has proven to be a game-changer for me. Its innovative features and user-friendly design have significantly enhanced my daily activities. I appreciate the value it brings, and I'm excited about the positive impact it continues to have on my work and life.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The team's commitment to excellence shines through in every interaction.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the team for delivering top-quality service.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm floating on air!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm grateful for the excellent customer service experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Certainly not worth the allotment.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "This product has proven to be a reliable and valuable asset.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Nothing exceptional.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither thrilling nor boring.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Certainly not worth the pinnacle.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The service is prompt, efficient, and consistently excellent.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was vanilla.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I'm dissatisfied with the service; the support team is unresponsive, and the assistance provided is inadequate. It consistently falls short of delivering the expected level of support, resulting in frustration.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service was standard and efficient.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The service is reasonable, delivering what is promised without exceeding expectations.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No standout elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither impressive nor disappointing.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered a dismissive attitude and uncooperative behavior from the sales attendant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The level of support from the sales attendant was neither remarkable nor unsatisfactory.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No benefit.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Marvelous job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "This has been a fantastic experience from start to finish.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm frustrated with the service; it consistently provides inadequate assistance.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The sales attendant's uncooperative behavior and lack of empathy made the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Impressive work!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No strong impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Wish I could return it.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Definitely not worth the unification.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "It was standard quality.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Unprofessional conduct from the sales attendant, making the interaction unpleasant.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neutral customer service experience with no extraordinary elements.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was vanilla.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Kudos to the sales attendant for their excellent communication and customer-focused approach.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "I'm in heaven!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Waste of time.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither here nor there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product has made a significant positive impact on my daily life.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Spectacular job!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's behavior was unprofessional, and I left feeling frustrated and dissatisfied.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not at all worth the investment.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither remarkable nor unremarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The support team's expertise was evident in resolving my issue.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is as expected, offering a standard set of features without any notable innovations. It meets the basic criteria but doesn't offer any standout qualities that would make it remarkable.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is standard, providing a basic set of features without any extraordinary qualities. While it meets the basic requirements, it lacks standout innovations or features that would set it apart from similar products.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's positive and friendly attitude contributed to a delightful shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The sales attendant's friendly and helpful nature contributed to a positive overall shopping experience.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is disappointing; it lacks essential features and quality.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Not particularly noteworthy.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither here nor there.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Magnificent service!",
+    "label": "Satisfied"
+  },
+  {
+    "text": "It was standard procedure.",
+    "label": "Neutral"
+  },
+  {
+    "text": "No particular enthusiasm.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Nothing out of the ordinary.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I encountered rude and unprofessional behavior from the customer service representatives.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "Ineffective assistance from the sales attendant, who failed to address customer concerns.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "The customer service met the basic needs without leaving a lasting impression.",
+    "label": "Neutral"
+  },
+  {
+    "text": "It was standard performance.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The sales attendant's commitment to customer satisfaction and product knowledge made my shopping experience exceptional.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The customer service experience was neither exceptional nor subpar.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Average assistance with no outstanding positive or negative aspects.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "I value the personalized attention and helpful recommendations from the sales attendant.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "The product is standard, offering a basic set of features without any extraordinary qualities. While it meets the expected criteria, it doesn't provide standout innovations or features that would set it apart from similar products.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The product is average, providing a middle-of-the-road experience. It neither excels nor fails in any particular aspect. It's a standard offering that may suit some users' needs.",
+    "label": "Neutral"
+  },
+  {
+    "text": "Neither good nor bad.",
+    "label": "Neutral"
+  },
+  {
+    "text": "The team's commitment to customer success is truly commendable.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "Poor customer service from the sales attendant, showing a lack of interest in assisting customers.",
+    "label": "Unhappy"
+  },
+  {
+    "text": "I appreciate the warm and welcoming demeanor of the sales attendant I interacted with.",
+    "label": "Satisfied"
+  },
+  {
+    "text": "No particular impact.",
+    "label": "Neutral"
+  }
+]
